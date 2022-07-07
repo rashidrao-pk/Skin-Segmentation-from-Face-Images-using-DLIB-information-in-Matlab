@@ -28,6 +28,14 @@ parts from the image<br>
 21- Displaying Peak, Mean Values <br>
 22- Then Writing Excel files at the end of the program <br>
 
+![1_0145_1_m_FL](https://user-images.githubusercontent.com/25412736/177792453-365770ef-61c3-494e-b92b-e70c7ec22c67.jpg)
+
+![1_0145_1_m_FL_skin_whitebg](https://user-images.githubusercontent.com/25412736/177792489-21879500-ae40-46ea-be08-f10d1c1df107.jpg)
+
+![1_0145_1_m_FL_skin_whitebg](https://user-images.githubusercontent.com/25412736/177792514-f55c6bf8-57b4-42bc-8e03-ab4c79768eaf.jpg)
+
+
+
 <br>
 ### We have to follow this algorithm:
 ![image](https://user-images.githubusercontent.com/25412736/177791707-a3219aa5-12d5-4c26-b6f6-c4ad128b25d8.png)
